@@ -1,0 +1,16 @@
+C:\Users\Tichs\source\repos\C#\OperacionesAritméticas\OperacionesAritméticas\bin\Debug\OperacionesAritméticas.exe.config
+C:\Users\Tichs\source\repos\C#\OperacionesAritméticas\OperacionesAritméticas\bin\Debug\OperacionesAritméticas.exe
+C:\Users\Tichs\source\repos\C#\OperacionesAritméticas\OperacionesAritméticas\bin\Debug\OperacionesAritméticas.pdb
+C:\Users\Tichs\source\repos\C#\OperacionesAritméticas\OperacionesAritméticas\obj\Debug\OperacionesAritméticas.csproj.AssemblyReference.cache
+C:\Users\Tichs\source\repos\C#\OperacionesAritméticas\OperacionesAritméticas\obj\Debug\OperacionesAritméticas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\source\repos\C#\OperacionesAritméticas\OperacionesAritméticas\obj\Debug\OperacionesAritméticas.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\source\repos\C#\OperacionesAritméticas\OperacionesAritméticas\obj\Debug\OperacionesAritméticas.exe
+C:\Users\Tichs\source\repos\C#\OperacionesAritméticas\OperacionesAritméticas\obj\Debug\OperacionesAritméticas.pdb
+C:\Users\Tichs\source\C#\OperacionesAritméticas\OperacionesAritméticas\bin\Debug\OperacionesAritméticas.exe.config
+C:\Users\Tichs\source\C#\OperacionesAritméticas\OperacionesAritméticas\bin\Debug\OperacionesAritméticas.exe
+C:\Users\Tichs\source\C#\OperacionesAritméticas\OperacionesAritméticas\bin\Debug\OperacionesAritméticas.pdb
+C:\Users\Tichs\source\C#\OperacionesAritméticas\OperacionesAritméticas\obj\Debug\OperacionesAritméticas.csproj.AssemblyReference.cache
+C:\Users\Tichs\source\C#\OperacionesAritméticas\OperacionesAritméticas\obj\Debug\OperacionesAritméticas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tichs\source\C#\OperacionesAritméticas\OperacionesAritméticas\obj\Debug\OperacionesAritméticas.csproj.CoreCompileInputs.cache
+C:\Users\Tichs\source\C#\OperacionesAritméticas\OperacionesAritméticas\obj\Debug\OperacionesAritméticas.exe
+C:\Users\Tichs\source\C#\OperacionesAritméticas\OperacionesAritméticas\obj\Debug\OperacionesAritméticas.pdb
